@@ -1,2 +1,2 @@
-# SDF-Leetcode-Solutions
+# JavaScript-Leetcode-Solutions
 JavaScript LeetCode Solutions
